@@ -1,0 +1,38 @@
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f0e8f8; /* Light purple background color */
+    }
+
+    header {
+        background-color: #6a0572; /* Dark purple header background color */
+        color: #fff;
+        padding: 1em;
+        text-align: center;
+    }
+
+    nav {
+        background-color: #8b5e83; /* Medium purple navigation background color */
+        padding: 0.5em;
+        text-align: center;
+    }
+
+    nav a {
+        color: #fff;
+        text-decoration: none;
+        padding: 0.5em 1em;
+        margin: 0 0.5em;
+        border-radius: 5px;
+        background-color: #a35f8f; /* Lighter purple navigation button background color */
+    }
+
+    section {
+        padding: 1em;
+        background-color: #fff; /* White background for content sections */
+        margin-bottom: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle lift */
+    }
+</style>
